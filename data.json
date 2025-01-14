@@ -1,0 +1,30 @@
+{
+  "rides": [
+    {
+      "id": 1,
+      "name": "Roller Coaster Extreme",
+      "description": "A thrilling ride with loops and twists.",
+      "wait_time": "15 mins"
+    },
+    {
+      "id": 2,
+      "name": "Ferris Wheel",
+      "description": "Relaxing ride with panoramic views.",
+      "wait_time": "10 mins"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Pirate's Cove Diner",
+      "cuisine": "Seafood",
+      "specialties": ["Crab Cakes", "Lobster Rolls"]
+    },
+    {
+      "id": 2,
+      "name": "Galaxy Grub",
+      "cuisine": "Space-themed Burgers",
+      "specialties": ["Meteor Burger", "Saturn Fries"]
+    }
+  ]
+}
