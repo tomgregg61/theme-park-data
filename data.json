@@ -4,13 +4,28 @@
       "id": 1,
       "name": "Roller Coaster Extreme",
       "description": "A thrilling ride with loops and twists.",
-      "wait_time": "15 mins"
+      "wait_time": "15 mins",
+      "created_date": "2021-07-01",
+      "top_speed": "60 mph",
+      "height_requirement": "48 inches"
     },
     {
       "id": 2,
       "name": "Ferris Wheel",
       "description": "Relaxing ride with panoramic views.",
-      "wait_time": "10 mins"
+      "wait_time": "10 mins",
+      "created_date": "2022-03-21",
+      "top_speed": "20 mph",
+      "height_requirement": "36 inches"
+    },
+    {
+      "id": 3,
+      "name": "The Shooting Star",
+      "description": "Super fast ride with 360s and drops. It will make you feel like a shooting star.",
+      "wait_time": "20 mins",
+      "created_date": "2024-10-18",
+      "top_speed": "80 mph",
+      "height_requirement": "60 inches"
     }
   ],
   "restaurants": [
