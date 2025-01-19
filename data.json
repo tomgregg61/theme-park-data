@@ -29,61 +29,61 @@
     }
   ],
   "restaurants": [
-      {
-        "id": 1,
-        "name": "Pirate's Cove Diner",
-        "cuisine": "Seafood",
-        "specialties": [
-          {
-            "name": "Crab Cakes",
-            "description": "Golden-fried crab meat with a tangy tartar sauce"
-          },
-          {
-            "name": "Lobster Rolls",
-            "description": "Buttery rolls stuffed with fresh lobster and a hint of lemon"
-          }
-        ],
-        "average_price": "£25"
-      },
-      {
-        "id": 2,
-        "name": "Galaxy Grub",
-        "cuisine": "Space-themed Burgers",
-        "specialties": [
-          {
-            "name": "Meteor Burger",
-            "description": "Juicy beef burger with fiery chilli sauce and crispy onion rings"
-          },
-          {
-            "name": "Saturn Fries",
-            "description": "Curly fries with a cheesy dipping sauce"
-          }
-        ],
-        "average_price": "£30"
-      },
-      {
-        "id": 3,
-        "name": "Oasis Grill",
-        "cuisine": "Desert BBQ",
-        "specialties": [
-          {
-            "name": "Mirage Platter",
-            "description": "BBQ brisket, smoked ribs, and grilled aubergine"
-          },
-          {
-            "name": "Sandstorm Wings",
-            "description": "Spicy BBQ wings with a cooling yoghurt dip"
-          },
-          {
-            "name": "Cactus Skewers",
-            "description": "Grilled veggies with a smoky rub"
-          },
-          {
-            "name": "Dunes Burger",
-            "description": "BBQ lamb burger with harissa mayo"
-          }
-        ],
-        "average_price": "£30"
-      }
-    ]
+    {
+      "id": 1,
+      "name": "Pirate's Cove Diner",
+      "cuisine": "Seafood",
+      "specialties": [
+        {
+          "name": "Crab Cakes",
+          "description": "Golden-fried crab meat with a tangy tartar sauce"
+        },
+        {
+          "name": "Lobster Rolls",
+          "description": "Buttery rolls stuffed with fresh lobster and a hint of lemon"
+        }
+      ],
+      "average_price": "£25"
+    },
+    {
+      "id": 2,
+      "name": "Galaxy Grub",
+      "cuisine": "Space-themed Burgers",
+      "specialties": [
+        {
+          "name": "Meteor Burger",
+          "description": "Juicy beef burger with fiery chilli sauce and crispy onion rings"
+        },
+        {
+          "name": "Saturn Fries",
+          "description": "Curly fries with a cheesy dipping sauce"
+        }
+      ],
+      "average_price": "£30"
+    },
+    {
+      "id": 3,
+      "name": "Oasis Grill",
+      "cuisine": "Desert BBQ",
+      "specialties": [
+        {
+          "name": "Mirage Platter",
+          "description": "BBQ brisket, smoked ribs, and grilled aubergine"
+        },
+        {
+          "name": "Sandstorm Wings",
+          "description": "Spicy BBQ wings with a cooling yoghurt dip"
+        },
+        {
+          "name": "Cactus Skewers",
+          "description": "Grilled veggies with a smoky rub"
+        },
+        {
+          "name": "Dunes Burger",
+          "description": "BBQ lamb burger with harissa mayo"
+        }
+      ],
+      "average_price": "£30"
+    }
+  ]
 }
