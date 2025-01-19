@@ -29,7 +29,6 @@
     }
   ],
   "restaurants": [
-    [
       {
         "id": 1,
         "name": "Pirate's Cove Diner",
@@ -87,5 +86,4 @@
         "average_price": "£30"
       }
     ]
-  ]
 }
