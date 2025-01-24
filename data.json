@@ -7,7 +7,8 @@
       "wait_time": "15 mins",
       "created_date": "2021-07-01",
       "top_speed": "60 mph",
-      "height_requirement": "48 inches"
+      "height_requirement": "48 inches",
+      "pic": "ro1.jpg"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "wait_time": "10 mins",
       "created_date": "2022-03-21",
       "top_speed": "20 mph",
-      "height_requirement": "36 inches"
+      "height_requirement": "36 inches",
+      "pic": "ro2.jpg"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "wait_time": "20 mins",
       "created_date": "2024-10-18",
       "top_speed": "80 mph",
-      "height_requirement": "60 inches"
+      "height_requirement": "60 inches",
+      "pic": "ro3.jpg"
     }
   ],
   "restaurants": [
@@ -43,7 +46,8 @@
           "description": "Buttery rolls stuffed with fresh lobster and a hint of lemon"
         }
       ],
-      "average_price": "£25"
+      "average_price": "£25",
+      "pic": "re1.jpg"
     },
     {
       "id": 2,
@@ -59,7 +63,8 @@
           "description": "Curly fries with a cheesy dipping sauce"
         }
       ],
-      "average_price": "£30"
+      "average_price": "£30",
+      "pic": "re2.jpg"
     },
     {
       "id": 3,
@@ -83,7 +88,8 @@
           "description": "BBQ lamb burger with harissa mayo"
         }
       ],
-      "average_price": "£30"
+      "average_price": "£30",
+      "pic": "re3.jpg"
     }
   ]
 }
