@@ -8,7 +8,7 @@
       "created_date": "2021-07-01",
       "top_speed": "60 mph",
       "height_requirement": "48 inches",
-      "pic": "ro1.jpg"
+      "pic": "https://tomgregg61.github.io/theme-park-data/images/ro1.jpg"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "created_date": "2022-03-21",
       "top_speed": "20 mph",
       "height_requirement": "36 inches",
-      "pic": "ro2.jpg"
+      "pic": "https://tomgregg61.github.io/theme-park-data/images/ro2.jpg"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "created_date": "2024-10-18",
       "top_speed": "80 mph",
       "height_requirement": "60 inches",
-      "pic": "ro3.jpg"
+      "pic": "https://tomgregg61.github.io/theme-park-data/images/ro3.jpg"
     }
   ],
   "restaurants": [
@@ -47,7 +47,7 @@
         }
       ],
       "average_price": "£25",
-      "pic": "re1.jpg"
+      "pic": "https://tomgregg61.github.io/theme-park-data/images/re1.jpg"
     },
     {
       "id": 2,
@@ -64,7 +64,7 @@
         }
       ],
       "average_price": "£30",
-      "pic": "re2.jpg"
+      "pic": "https://tomgregg61.github.io/theme-park-data/images/re2.jpg"
     },
     {
       "id": 3,
@@ -89,7 +89,7 @@
         }
       ],
       "average_price": "£30",
-      "pic": "re3.jpg"
+      "pic": "https://tomgregg61.github.io/theme-park-data/images/re3.jpg"
     }
   ]
 }
