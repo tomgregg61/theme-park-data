@@ -33,7 +33,7 @@
   ],
   "restaurants": [
     {
-      "id": 1,
+      "id": 4,
       "name": "Pirate's Cove Diner",
       "cuisine": "Seafood",
       "specialties": [
@@ -50,7 +50,7 @@
       "pic": "https://tomgregg61.github.io/theme-park-data/images/re1.jpg"
     },
     {
-      "id": 2,
+      "id": 5,
       "name": "Galaxy Grub",
       "cuisine": "Space-themed Burgers",
       "specialties": [
@@ -67,7 +67,7 @@
       "pic": "https://tomgregg61.github.io/theme-park-data/images/re2.jpg"
     },
     {
-      "id": 3,
+      "id": 6,
       "name": "Oasis Grill",
       "cuisine": "Desert BBQ",
       "specialties": [
